@@ -6,5 +6,4 @@
 
 <?php
 phpinfo(); // Path: index.php
-// Path: index.php
 ?>
