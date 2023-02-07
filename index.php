@@ -5,5 +5,5 @@
 </body>
 
 <?php
-phpinfo();
+phpinfo(); // Path: index.php
 ?>
